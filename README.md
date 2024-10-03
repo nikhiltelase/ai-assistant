@@ -3,11 +3,11 @@
 Welcome to the **Avi AI** project! Avi AI is a personal voice assistant designed to enhance your daily productivity and automate various tasks using voice commands. Built with cutting-edge technology, Avi AI integrates seamlessly with smart home devices, apps, and more.
 
 ## Watch The Video
-[![Video Thumbnail](https://img.youtube.com/vi/mpLLt3EGm0Y/hqdefault.jpg)](https://www.youtube.com/watch?v=mpLLt3EGm0Y)
+[![Video Thumbnail](https://img.youtube.com/vi/fxh-XnSUl1Y/hqdefault.jpg)](https://www.youtube.com/watch?v=fxh-XnSUl1Y)
 
 Click the image to watch the video.
 ## Check Out This LinkedIn Post
-[View the LinkedIn post here](https://www.linkedin.com/feed/update/urn:li:activity:7204754130039435264/)
+[View the LinkedIn post here](https://www.linkedin.com/posts/nikhiltelase_aviai-voiceassistant-ai-activity-7247655225115754496-t1Oi?utm_source=share&utm_medium=member_desktop)
 
 
 ## Table of Contents
